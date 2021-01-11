@@ -1,0 +1,17 @@
+.c-card{
+    border: 0;
+}
+.c-card-footer{
+    background-color: white;
+    border: 0;
+}
+.container img{
+    width: 100px;
+}
+.background .carousel-item{
+    background-color: #fceae8;
+    border-radius: 1em;
+}
+.back-color{
+    background-color: #fceae8;
+}
